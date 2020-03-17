@@ -1,0 +1,1 @@
+mysql server have maximum 32767 pool connections.
